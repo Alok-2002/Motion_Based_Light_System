@@ -53,7 +53,7 @@ The **Motion-Based Smart Lighting System** is designed to optimize energy usage 
 
 ## 📑 Circuit Diagram
 
-*Note: Include a detailed circuit diagram here to assist users in assembling the hardware components correctly.*
+![Circuit Diagram_](https://github.com/user-attachments/assets/3d7670e3-fb9f-4d2a-84e9-4e219db7a444)
 
 ## 🔌 Installation and Setup
 
